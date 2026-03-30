@@ -130,7 +130,7 @@ Clustering added a strategic layer to the analysis, enabling targeted retention 
 
 ---
 
-## 📎 Repository Contents
+##  Repository Contents
 - `/sql/` — SQL queries  
 - `/notebooks/` — Python EDA & modeling  
 - `/powerbi/` — Dashboard PBIX file  
@@ -140,5 +140,5 @@ Clustering added a strategic layer to the analysis, enabling targeted retention 
 
 ---
 
-## 🤝 Connect
+##  Connect
 If you’re interested in HR analytics, predictive modeling, or clustering techniques, feel free to connect or collaborate!
